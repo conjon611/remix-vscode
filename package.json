@@ -166,7 +166,7 @@
 		"typescript": "^3.9.7"
 	},
 	"dependencies": {
-		"@remix-project/remix-url-resolver": "^0.0.18",
+		"@remix-project/remix-url-resolver": "^0.0.21",
 		"@remixproject/engine": "^0.3.17",
 		"@remixproject/engine-vscode": "^0.3.17",
 		"@remixproject/plugin": "^0.3.17",
@@ -175,7 +175,7 @@
 		"@remixproject/plugin-vscode": "^0.3.17",
 		"@types/semver": "^7.3.6",
 		"@walletconnect/web3-provider": "^1.4.1",
-		"axios": "^0.21.1",
+		"axios": "^1.13.5",
 		"ftp": "^0.3.10",
 		"ipfs-http-client": "47.0.1",
 		"isomorphic-git": "^1.8.1",
